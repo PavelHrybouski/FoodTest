@@ -1,6 +1,6 @@
 # FoodTest
 ##Приложение для заказа еды и посторения маршрута к заданным точкам
-<img src="https://cloud.githubusercontent.com/assets/22887210/20178281/7e61e670-a761-11e6-8b0a-839417e350f9.png" width="320px" height="568px" />/n
+<img src="https://cloud.githubusercontent.com/assets/22887210/20178281/7e61e670-a761-11e6-8b0a-839417e350f9.png" width="320px" height="568px" /><br>
 <img src="https://cloud.githubusercontent.com/assets/22887210/20178318/a803be4a-a761-11e6-93d2-e14a42619dcc.png" width="320px" height="568px" />
 <img src="https://cloud.githubusercontent.com/assets/22887210/20178320/a8d73dec-a761-11e6-888b-9a92771c6830.png" width="320px" height="568px" />
 <img src="https://cloud.githubusercontent.com/assets/22887210/20178325/aa3d17ba-a761-11e6-91a2-6dd366e6fac5.png" width="320px" height="568px" />
